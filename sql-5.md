@@ -1,4 +1,4 @@
-## 5. INSERT, UPDATE & DELETE
+## 5. INSERT, UPDATE & DELETE (21.8)
 
 5.1 INSERT
 Esimerkki 5.1: Yksinkertainen INSERT-lause
